@@ -1,1 +1,1 @@
-# Ozama
+Ce projet consiste à générer le CSS pour le site Ozama-creation.fr puis suite à la demande de la cliente, un fonction pour mesurer la taille du doigt de l'utilisateur pour qu'il puisse connaître son modèle avant de le commander. 
